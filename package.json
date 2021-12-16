@@ -1,0 +1,30 @@
+{
+  "name": "projet-cypress",
+  "version": "1.0.0",
+  "description": "Mon projet d'automatisation sur Cypress.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benmesswass/Projet-Cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benmesswass/Projet-Cypress/issues"
+  },
+  "homepage": "https://github.com/benmesswass/Projet-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^9.1.1",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": false,
+    "stepDefinitions": "cypress/cucumber/stepDefinitions"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.6.0"
+  }
+}
