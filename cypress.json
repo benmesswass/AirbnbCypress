@@ -1,6 +1,6 @@
 {
   "projectId": "twkfpr",
-"baseUrl": "https://www.deepl.com/",
+"baseUrl": "https://rec-desbugs.herokuapp.com/login",
 "defaultCommandTimeout": 10000,
 "retries": {
  "runMode": 2,
