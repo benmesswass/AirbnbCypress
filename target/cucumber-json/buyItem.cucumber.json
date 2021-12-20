@@ -1,0 +1,133 @@
+[
+  {
+    "description": " Verify if user is able add an item to the cart and pass the order",
+    "keyword": "Feature",
+    "name": "buy an item",
+    "line": 1,
+    "id": "buy-an-item",
+    "tags": [],
+    "uri": "buyItem.feature",
+    "elements": [
+      {
+        "id": "buy-an-item;as-a-user-i-want-to-add-an-item-to-the-cart",
+        "keyword": "Scenario",
+        "line": 16,
+        "name": "As a user I want to add an item to the cart",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "I am on the home",
+            "result": {
+              "status": "passed",
+              "duration": 2745000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I type the \"tomato\" on the search page",
+            "result": {
+              "status": "passed",
+              "duration": 380000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "I choose the number of items \"4\"",
+            "result": {
+              "status": "passed",
+              "duration": 1198000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "I should  be able to find my items in the cart",
+            "result": {
+              "status": "passed",
+              "duration": 118000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "I type the \"cucumber\" on the search page",
+            "result": {
+              "status": "passed",
+              "duration": 450000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 11,
+            "name": "I choose the number of items \"5\"",
+            "result": {
+              "status": "passed",
+              "duration": 1220000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "I should  be able to find my items in the cart",
+            "result": {
+              "status": "passed",
+              "duration": 107000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "buy-an-item;as-a-user-i-want-to-pass-the-order",
+        "keyword": "Scenario",
+        "line": 19,
+        "name": "As a user I want to pass the order",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 21,
+            "name": "I am on the home page and some items are in the cart",
+            "result": {
+              "status": "passed",
+              "duration": 39000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 22,
+            "name": "I go to cart page and confirm the command",
+            "result": {
+              "status": "passed",
+              "duration": 1043000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 23,
+            "name": "the command should be confirmed",
+            "result": {
+              "status": "passed",
+              "duration": 11000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

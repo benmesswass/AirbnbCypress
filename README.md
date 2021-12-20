@@ -1,1 +1,1 @@
-# AirbnbCypress
+# Cypress_Template

@@ -1,16 +1,25 @@
 {
   "projectId": "twkfpr",
-"baseUrl": "https://rahulshettyacademy.com/seleniumPractise/#/",
-"defaultCommandTimeout": 10000,
-"retries": {
- "runMode": 2,
- "openMode": 0
-},
-"scrollBehavior": "bottom",
-"testFiles": ["**/*.feature","**/*.js"],
-"viewportHeight": 1000,
-"viewportWidth": 1000,
-"screenshotsFolder": "target/screenshots",
-"videosFolder": "target/videos",
-"downloadsFolder": "target/downloads"
+  "baseUrl": "https://rahulshettyacademy.com/seleniumPractise/#/",
+  "defaultCommandTimeout": 10000,
+  "retries": {
+    "runMode": 2,
+    "openMode": 0
+  },
+  "scrollBehavior": "bottom",
+  "viewportHeight": 1000,
+  "viewportWidth": 1000,
+  "fileServerFolder": "cypress-test",
+  "fixturesFolder": "src/resources",
+  "integrationFolder": "src/test",
+  "pluginsFolder": "src/main/plugins/index.js",
+  "supportFile": "src/main/support/index.js",
+  "screenshotsFolder": "target/screenshots",
+  "videosFolder": "target/videos",
+  "downloadsFolder": "target/downloads",
+
+  "ignoreTestFiles": [],
+  "testFiles": "features/**/*.feature",
+
+  "screenshotOnRunFailure": true
 }

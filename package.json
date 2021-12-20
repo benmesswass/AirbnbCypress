@@ -1,30 +1,30 @@
 {
-  "name": "projet-cypress",
+  "name": "airbnbcypress_template",
   "version": "1.0.0",
-  "description": "Mon projet d'automatisation sur Cypress.io",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/benmesswass/Projet-Cypress.git"
+    "cy:open": "cypress open",
+    "report": "ts-node target/reports/CucumberReport.ts"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/benmesswass/Projet-Cypress/issues"
-  },
-  "homepage": "https://github.com/benmesswass/Projet-Cypress#readme",
   "devDependencies": {
-    "cypress": "^9.1.1",
+    "cypress": "^9.1.1"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^8.0.0-rc.1",
+    "cucumber-html-reporter": "^5.5.0",
     "cypress-cucumber-preprocessor": "^4.3.1"
   },
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": false,
-    "stepDefinitions": "cypress/cucumber/stepDefinitions"
-  },
-  "dependencies": {
-    "cypress-real-events": "^1.6.0"
-  }
+    "stepDefinitions": "src/test/steps_definitions",
+    "cucumberJson": {
+      "generate": true,
+      "outputFolder": "target/cucumber-json",
+      "filePrefix": "",
+      "fileSuffix": ".cucumber"
+    }
+  }  
 }
