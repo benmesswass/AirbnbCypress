@@ -1,6 +1,6 @@
 {
   "projectId": "twkfpr",
-"baseUrl": "https://rec-desbugs.herokuapp.com/login",
+"baseUrl": "https://rahulshettyacademy.com/seleniumPractise/#/",
 "defaultCommandTimeout": 10000,
 "retries": {
  "runMode": 2,
