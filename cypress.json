@@ -21,5 +21,8 @@
   "ignoreTestFiles": [],
   "testFiles": "features/**/*.feature",
 
-  "screenshotOnRunFailure": true
+  "screenshotOnRunFailure": true,
+  "reporter": "mocha-allure-reporter",
+  "allure-commandline": "^2.13.8",
+  "mocha-allure-reporter": "^1.4.0"
 }

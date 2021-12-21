@@ -23,7 +23,7 @@
             "name": "I am on the home",
             "result": {
               "status": "passed",
-              "duration": 2890000000
+              "duration": 2906000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "I type the \"tomato\" on the search page",
             "result": {
               "status": "passed",
-              "duration": 371000000
+              "duration": 427000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "I choose the number of items \"4\"",
             "result": {
               "status": "passed",
-              "duration": 1198000000
+              "duration": 1194000000
             }
           },
           {
@@ -63,7 +63,7 @@
             "name": "I type the \"cucumber\" on the search page",
             "result": {
               "status": "passed",
-              "duration": 382000000
+              "duration": 405000000
             }
           },
           {
@@ -73,7 +73,7 @@
             "name": "I choose the number of items \"5\"",
             "result": {
               "status": "passed",
-              "duration": 1197000000
+              "duration": 1210000000
             }
           },
           {
@@ -83,7 +83,7 @@
             "name": "I should  be able to find my items in the cart",
             "result": {
               "status": "passed",
-              "duration": 97000000
+              "duration": 106000000
             }
           }
         ]
@@ -103,7 +103,7 @@
             "name": "I am on the home page and some items are in the cart",
             "result": {
               "status": "passed",
-              "duration": 35000000
+              "duration": 37000000
             }
           },
           {
@@ -113,7 +113,7 @@
             "name": "I go to cart page and confirm the command",
             "result": {
               "status": "passed",
-              "duration": 1045000000
+              "duration": 1039000000
             }
           },
           {
@@ -123,7 +123,7 @@
             "name": "the command should be confirmed",
             "result": {
               "status": "passed",
-              "duration": 15000000
+              "duration": 8000000
             }
           }
         ]

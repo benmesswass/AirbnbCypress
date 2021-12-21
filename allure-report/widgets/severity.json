@@ -1,0 +1,21 @@
+[ {
+  "uid" : "4f2b84588c50f7d9",
+  "name" : "As a user I want to add an item to the cart (example #1)",
+  "time" : {
+    "start" : 1640105945329,
+    "stop" : 1640105951646,
+    "duration" : 6317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ec6597a02f92a0b",
+  "name" : "As a user I want to pass the order",
+  "time" : {
+    "start" : 1640105951646,
+    "stop" : 1640105952736,
+    "duration" : 1090
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

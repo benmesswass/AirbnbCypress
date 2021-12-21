@@ -1,0 +1,43 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "buy an item",
+    "children" : [ {
+      "name" : "As a user I want to add an item to the cart (example #1)",
+      "uid" : "4f2b84588c50f7d9",
+      "parentUid" : "e8667c3ee08cef839783552fc4dc5f94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640105945329,
+        "stop" : 1640105951646,
+        "duration" : 6317
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "As a user I want to pass the order",
+      "uid" : "2ec6597a02f92a0b",
+      "parentUid" : "e8667c3ee08cef839783552fc4dc5f94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640105951646,
+        "stop" : 1640105952736,
+        "duration" : 1090
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e8667c3ee08cef839783552fc4dc5f94"
+  } ]
+}

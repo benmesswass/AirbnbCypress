@@ -1,0 +1,50 @@
+{
+  "uid" : "4f2b84588c50f7d9",
+  "name" : "As a user I want to add an item to the cart (example #1)",
+  "fullName" : "buy an item.As a user I want to add an item to the cart (example #1)",
+  "historyId" : "3b246ee00ddf6f7fcd6f77f4d0265334",
+  "time" : {
+    "start" : 1640105945329,
+    "stop" : 1640105951646,
+    "duration" : 6317
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "buy an item"
+  }, {
+    "name" : "testClass",
+    "value" : "buy an item"
+  }, {
+    "name" : "testMethod",
+    "value" : "As a user I want to add an item to the cart (example #1)"
+  }, {
+    "name" : "package",
+    "value" : "buy an item"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4f2b84588c50f7d9.json",
+  "parameterValues" : [ ]
+}
