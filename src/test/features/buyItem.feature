@@ -1,6 +1,7 @@
 Feature: buy an item
  Verify if user is able add an item to the cart and pass the order
- 
+
+@AllTest 
 Scenario Outline: As a user I want to add an item to the cart
 
 Given I am on the home
