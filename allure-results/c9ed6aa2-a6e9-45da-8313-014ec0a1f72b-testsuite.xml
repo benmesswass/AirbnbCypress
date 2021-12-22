@@ -1,9 +1,9 @@
 <?xml version='1.0'?>
-<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1640164765851' stop='1640164773788'>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1640169148110' stop='1640169155925'>
     <name>buy an item</name>
     <title>buy an item</title>
     <test-cases>
-        <test-case start='1640164765867' status='passed' stop='1640164772682'>
+        <test-case start='1640169148121' status='passed' stop='1640169154828'>
             <name>As a user I want to add an item to the cart (example #1)</name>
             <title>As a user I want to add an item to the cart (example #1)</title>
             <labels/>
@@ -11,7 +11,7 @@
             <steps/>
             <attachments/>
         </test-case>
-        <test-case start='1640164772683' status='passed' stop='1640164773788'>
+        <test-case start='1640169154829' status='passed' stop='1640169155925'>
             <name>As a user I want to pass the order</name>
             <title>As a user I want to pass the order</title>
             <labels/>
