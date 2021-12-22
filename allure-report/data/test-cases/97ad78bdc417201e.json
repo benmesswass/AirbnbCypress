@@ -1,12 +1,12 @@
 {
-  "uid" : "4f2b84588c50f7d9",
-  "name" : "As a user I want to add an item to the cart (example #1)",
-  "fullName" : "buy an item.As a user I want to add an item to the cart (example #1)",
-  "historyId" : "3b246ee00ddf6f7fcd6f77f4d0265334",
+  "uid" : "97ad78bdc417201e",
+  "name" : "As a user I want to pass the order",
+  "fullName" : "buy an item.As a user I want to pass the order",
+  "historyId" : "c5186176766166d0b7c0a55932241f72",
   "time" : {
-    "start" : 1640105945329,
-    "stop" : 1640105951646,
-    "duration" : 6317
+    "start" : 1640164772683,
+    "stop" : 1640164773788,
+    "duration" : 1105
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,7 +27,7 @@
     "value" : "buy an item"
   }, {
     "name" : "testMethod",
-    "value" : "As a user I want to add an item to the cart (example #1)"
+    "value" : "As a user I want to pass the order"
   }, {
     "name" : "package",
     "value" : "buy an item"
@@ -45,6 +45,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "4f2b84588c50f7d9.json",
+  "source" : "97ad78bdc417201e.json",
   "parameterValues" : [ ]
 }

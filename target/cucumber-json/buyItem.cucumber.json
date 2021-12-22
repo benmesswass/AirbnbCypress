@@ -23,7 +23,7 @@
             "name": "I am on the home",
             "result": {
               "status": "passed",
-              "duration": 2906000000
+              "duration": 3448000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "I type the \"tomato\" on the search page",
             "result": {
               "status": "passed",
-              "duration": 427000000
+              "duration": 406000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "I choose the number of items \"4\"",
             "result": {
               "status": "passed",
-              "duration": 1194000000
+              "duration": 1202000000
             }
           },
           {
@@ -53,7 +53,7 @@
             "name": "I should  be able to find my items in the cart",
             "result": {
               "status": "passed",
-              "duration": 117000000
+              "duration": 105000000
             }
           },
           {
@@ -63,7 +63,7 @@
             "name": "I type the \"cucumber\" on the search page",
             "result": {
               "status": "passed",
-              "duration": 405000000
+              "duration": 399000000
             }
           },
           {
@@ -73,7 +73,7 @@
             "name": "I choose the number of items \"5\"",
             "result": {
               "status": "passed",
-              "duration": 1210000000
+              "duration": 1195000000
             }
           },
           {
@@ -103,7 +103,7 @@
             "name": "I am on the home page and some items are in the cart",
             "result": {
               "status": "passed",
-              "duration": 37000000
+              "duration": 59000000
             }
           },
           {
@@ -113,7 +113,7 @@
             "name": "I go to cart page and confirm the command",
             "result": {
               "status": "passed",
-              "duration": 1039000000
+              "duration": 1041000000
             }
           },
           {
