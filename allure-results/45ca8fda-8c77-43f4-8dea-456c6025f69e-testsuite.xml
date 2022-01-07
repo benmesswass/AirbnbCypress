@@ -1,0 +1,30 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1641562420928' stop='1641562472577'>
+    <name>buy an item</name>
+    <title>buy an item</title>
+    <test-cases>
+        <test-case start='1641562420959' status='passed' stop='1641562439942'>
+            <name>As a user I want to add an item to the cart (example #1)</name>
+            <title>As a user I want to add an item to the cart (example #1)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1641562439943' status='failed' stop='1641562472494'>
+            <name>As a user I want to pass the order</name>
+            <title>As a user I want to pass the order</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timed out retrying after 10000ms: Expected to find element: `.cart-icon`, but never found it.</message>
+                <stack-trace>AssertionError: Timed out retrying after 10000ms: Expected to find element: `.cart-icon`, but never found it.
+                    at Context.eval (https://rahulshettyacademy.com/__cypress/tests?p=src\test\features\buyItem.feature:41772:6)
+                    at Context.resolveAndRunStepDefinition (https://rahulshettyacademy.com/__cypress/tests?p=src\test\features\buyItem.feature:12244:29)
+                    at Context.eval (https://rahulshettyacademy.com/__cypress/tests?p=src\test\features\buyItem.feature:11565:35)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

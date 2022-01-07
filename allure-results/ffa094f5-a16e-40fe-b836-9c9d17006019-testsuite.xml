@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1641546617695' stop='1641546627685'>
+    <name>buy an item</name>
+    <title>buy an item</title>
+    <test-cases>
+        <test-case start='1641546617793' status='passed' stop='1641546626413'>
+            <name>As a user I want to add an item to the cart (example #1)</name>
+            <title>As a user I want to add an item to the cart (example #1)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1641546626414' status='passed' stop='1641546627680'>
+            <name>As a user I want to pass the order</name>
+            <title>As a user I want to pass the order</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

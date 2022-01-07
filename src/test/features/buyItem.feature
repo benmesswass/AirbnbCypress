@@ -20,6 +20,7 @@ Examples:
 @confirmOrder
 Scenario: As a user I want to pass the order
 
-Given I am on the home page and some items are in the cart
+Given some items are in the cart
+And I am on the cart page
 When I go to cart page and confirm the command
 Then the command should be confirmed
