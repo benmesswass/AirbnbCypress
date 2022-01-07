@@ -15,7 +15,7 @@ Then I should  be able to find my items in the cart
 
 Examples:
      | itemName1     | itemNumber1     |  itemName2  | itemNumber2 |
-     | tomato        | 4               |  cucumber   | 5           |
+     | tomato        | 2               |  cucumber   | 3           |
     
 @confirmOrder
 Scenario: As a user I want to pass the order

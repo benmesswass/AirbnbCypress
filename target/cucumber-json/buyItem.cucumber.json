@@ -37,7 +37,7 @@
             "name": "I am on the home",
             "result": {
               "status": "passed",
-              "duration": 19373000000
+              "duration": 21660000000
             }
           },
           {
@@ -54,10 +54,10 @@
             "arguments": [],
             "keyword": "And ",
             "line": 10,
-            "name": "I choose the number of items \"4\"",
+            "name": "I choose the number of items \"2\"",
             "result": {
               "status": "passed",
-              "duration": 1240000000
+              "duration": 1266000000
             }
           },
           {
@@ -67,7 +67,7 @@
             "name": "I should  be able to find my items in the cart",
             "result": {
               "status": "passed",
-              "duration": 147000000
+              "duration": 156000000
             }
           },
           {
@@ -77,17 +77,17 @@
             "name": "I type the \"cucumber\" on the search page",
             "result": {
               "status": "passed",
-              "duration": 587000000
+              "duration": 593000000
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
             "line": 13,
-            "name": "I choose the number of items \"5\"",
+            "name": "I choose the number of items \"3\"",
             "result": {
               "status": "passed",
-              "duration": 1331000000
+              "duration": 1315000000
             }
           },
           {
@@ -97,7 +97,7 @@
             "name": "I should  be able to find my items in the cart",
             "result": {
               "status": "passed",
-              "duration": 151000000
+              "duration": 166000000
             }
           }
         ]
@@ -126,7 +126,7 @@
             "name": "some items are in the cart",
             "result": {
               "status": "passed",
-              "duration": 87000000
+              "duration": 167000000
             }
           },
           {
@@ -136,7 +136,7 @@
             "name": "I am on the cart page",
             "result": {
               "status": "passed",
-              "duration": 679000000
+              "duration": 664000000
             }
           },
           {
@@ -146,7 +146,7 @@
             "name": "I go to cart page and confirm the command",
             "result": {
               "status": "passed",
-              "duration": 531000000
+              "duration": 577000000
             }
           },
           {

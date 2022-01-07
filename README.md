@@ -2,6 +2,9 @@
 # To run the program, Go to C:\AirbnbCypress and type: 
 npm run cy:open
 
+# without opening Cypress window with headless mode
+npm run cy:allFeature
+
 # Mode Headless activated
 npx cypress run --browser chrome
 
